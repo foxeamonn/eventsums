@@ -7,3 +7,4 @@ Please read the following instructions in order start working frictionlessly in 
 3. Open your index.html and start coding
 
 Don't forget to contact us at support@sourcelair.com for any questions.
+changed
